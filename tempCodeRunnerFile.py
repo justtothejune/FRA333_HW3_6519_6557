@@ -1,0 +1,1 @@
+print(f"Joint torques (tau) : {computeEffortHW3(q,w)}")
