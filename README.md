@@ -169,7 +169,7 @@ Determinant for proving : -0.1289799454870287
 ```
 
 ## Question 3
-จงเขียนฟังก์ชั่นในการหาeffortของแต่ละข้อต่อเมื่อมี wrench มากระทำกับจุดกึ่งกลางของเฟรมพิกัด $F^e$
+จงเขียนฟังก์ชั่นในการหา Effort ของแต่ละข้อต่อเมื่อมี wrench มากระทำกับจุดกึ่งกลางของเฟรมพิกัด $F^e$
 โดยที่ Function ComputeEffortHW3 ใช้ในการคำนวณแรงบิดที่เกิดขึ้นกับ Joint ต่างๆของหุ่นยนต์ โดยอาศัยค่า Force และ Moment ที่ทำกับ end-effector ให้อยู่ในระบบพิกัดฐาน
 สามารถหาค่า Torque จากการแปลง Jacobian Matrix Transpose x wrench
 ### Solution
